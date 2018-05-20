@@ -1,0 +1,32 @@
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color:black;
+  color: white;
+  text-align: center;
+  height: 7%;
+}
+#main-container {
+  padding-top: 130px;
+  float: center;
+  width: 100%;
+  max-width: 650px;
+  padding: 30px;
+  margin: 0 0 40px;
+  background: #fff;
+  border: 1px solid #ddd;
+}
+
+ 
+
+
+
+
+
+
+
+
+
+
